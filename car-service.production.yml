@@ -1,0 +1,3 @@
+car-service:
+  max-limit:80
+  min-limit:20
