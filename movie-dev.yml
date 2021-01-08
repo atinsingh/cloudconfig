@@ -10,3 +10,5 @@ spring:
     url: jdbc:h2:mem:appdb
 data:
    learning: git
+     I am learning Git
+     It is very interesting as opposed to what I expected.
